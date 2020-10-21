@@ -1,2 +1,2 @@
 # gjs-rulers
- Adding rulers do grapesjs in designer mode
+ Adding rulers to grapesjs in designer mode
